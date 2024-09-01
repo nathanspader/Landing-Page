@@ -20,7 +20,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffcb45;
+    background-color: #f54a4f;
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
@@ -30,7 +30,7 @@ section {
 }
 
 .btn-default:hover {
-    background-color: #f8d477;
+    background-color: #fa8084;
 }
 
 .social-media-buttons {
@@ -58,7 +58,7 @@ section {
 }
 
 .section-title {
-    color: #e9a209;
+    color: #ec3137;
     font-size: 1.563rem;
 }
 

@@ -18,7 +18,7 @@
 }
 
 #cta .title span {
-    color: #e9a209;
+    color: #ec3137;
 }
 
 #cta .description {
@@ -61,17 +61,6 @@
     height: 100%;
     width: fit-content;
     z-index: 2;
-}
-
-.shape {
-    background-color: #ffe8b4;
-    width: 50%;
-    height: 100%;
-    position: absolute;
-    border-radius: 40% 30% 10% 20%;
-    top: 0;
-    right: 0;
-    z-index: 1;
 }
 
 @media screen and (max-width: 1170px) {
